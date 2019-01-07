@@ -16,5 +16,5 @@
     7. Profit?
 
 # Credits
-    <a class="btn btn-sm btn-default" href="https://twitter.com/slanderdev">Slander (owner)</a> created M0jave and its application.
-    <a class="btn btn-sm btn-default" href="https://twitter.com/Code4iOS">Code4iOS</a> created the customization profiles within M0jave.
+    SlanderDev (@slanderdev): created M0jave and it's application.
+    Code4iOS (@Code4iOS): created the customization profiles within M0jave.

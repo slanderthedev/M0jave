@@ -6,8 +6,6 @@
     M0jave consists of profiles that are safe and do not harm you device in any way!
     However if any issues or problems occur we are not responsible for the issue but we will provide support.
     
-    
-    
 # Installation
     1. Download the ipa.
     2. Download Cydia Impactor.
@@ -16,3 +14,7 @@
     5. Sign in with you Apple ID.
     6. Wait.
     7. Profit?
+
+# Credits
+    <a href="https://twitter.com/slanderdev">Slander (owner)</a> created M0jave and its application.
+    <a href="https://twitter.com/Code4iOS">Code4iOS</a> created the customization profiles within M0jave.

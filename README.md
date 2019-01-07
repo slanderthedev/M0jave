@@ -4,7 +4,7 @@
     
 # Disclaimer
     M0jave consists of profiles that are safe and do not harm you device in any way!
-    However, if any issues or problems occur, we are not responsible for the issue but we will provide support.
+    However, if any issues or problems occur we are not responsible for the issue but we will provide support.
     
     
     
